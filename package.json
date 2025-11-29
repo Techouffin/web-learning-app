@@ -1,0 +1,24 @@
+{
+  "name": "web3-learning-app",
+  "version": "1.0.0",
+  "description": "Web3 learning app for swaps, NFTs, and smart contracts",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "13.5.6",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "ethers": "5.7.2"
+  },
+  "devDependencies": {
+    "autoprefixer": "10.4.16",
+    "postcss": "8.4.31",
+    "tailwindcss": "3.3.5",
+    "eslint": "8.52.0",
+    "eslint-config-next": "13.5.6"
+  }
+}
